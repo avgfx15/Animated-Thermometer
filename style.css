@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: rgb(77, 105, 131);
+  text-align: center;
+  height: 100vh;
+}
+.heading {
+  margin-top: 1rem;
+}
+.hText {
+  font-size: 2.3rem;
+  color: yellow;
+  padding: 1rem;
+}
+.headText {
+  font-size: 7.5rem;
+  color: white;
+  line-height: 95vh;
+}
